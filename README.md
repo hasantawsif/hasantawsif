@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Tawsif. I'm currently working in cyber security and technology audit in one of the big banks in Toronto, Canada.
-- 👀 I’m passionate about technology and interested in Data Science, Machine Learning, Web Development and Cloud Technologies.
-- 🌱 I’m currently learning Web Development and cloud technologies such as AWS.
-- 💞️ I’m looking to collaborate on Data Science, Machine Learning projects. I would also be happy to learn more on cool technologies.
+- 👋 Hi, I’m Tawsif. I'm currently working in Data Analytics Privacy Advisory in one of the big 5 banks in Toronto, Canada.
+- 👀 I’m passionate about cool technologies and interested in Data Science, Machine Learning, Software Development and Cloud Technologies.
+- 🌱 I’m currently learning Advanced Machine learning Algorithms.
+- 💞️ I’m looking to collaborate on Data Science, Machine Learning projects. I would also be happy to learn more and take part in product management.
 - 📫 I'm reachable via email @ hasantawsif1@gmail.com
 
 <!---
